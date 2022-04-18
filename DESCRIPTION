@@ -1,0 +1,19 @@
+Package: RCBBarrierOptionPricing
+Type: Package
+Title: Tools For Barrier Option Pricing
+Version: 0.1.0
+Author: Pierre Giai-Miniet
+Maintainer: Pierre Giai-Miniet <h1519124@wu.ac.at>
+Description: This R package was written in the context of a university project 
+    (Industry Lab) with the Raiffeisen Centro Bank. The package gives the tools to 
+    validate barrier option valuation/pricing models.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
